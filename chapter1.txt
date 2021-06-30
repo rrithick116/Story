@@ -1,0 +1,3 @@
+hello there ,this is a file to play with git.
+write whatever you want and modify whatever you want.
+play around more to learn more.
